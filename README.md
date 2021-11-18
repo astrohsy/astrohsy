@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=apache-spark,apache-kafka,mysql)](https://github.com/astrohsy)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=apache-spark,apache-kafka,hadoop)](https://github.com/astrohsy)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Python,Node.js,Scala,KotlinJ,Java)](https://github.com/astrohsy)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Python,Node.js,Scala,Kotlin,Java)](https://github.com/astrohsy)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostgreSQL,MongoDB,Druid,ClickHouse,BigQuery,Docker,k8s)](https://github.com/astrohsy)
