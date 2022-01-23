@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🔭 Professional Experiences
+* Kakao Enterprise - Data Engineer (Aug. 2020 ~ Present)
+* Samsung Research - Data Engineer (Jan. 2019 ~ Jul. 2020)
+* Republic of Korea Cyber Command (Dec. 2016 ~ Sept. 2018)
+
+
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Python,Node.js,Scala,Kotlin,Java)](https://github.com/astrohsy)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostgreSQL,MongoDB,Druid,ClickHouse,BigQuery,Docker,k8s)](https://github.com/astrohsy)
