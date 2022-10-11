@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 Professional Experiences
-* Kakao Enterprise - Data Engineer (Aug. 2020 ~ Present)
+* Kakao Enterprise - Data Engineer (Aug. 2020 ~ Aug. 2022)
 * Samsung Research - Data Engineer (Jan. 2019 ~ Jul. 2020)
 * Republic of Korea Cyber Command (Dec. 2016 ~ Sept. 2018)
 
