@@ -9,6 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoseunglee/)](https://www.linkedin.com/in/hoseunglee/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoseunglee@gmail.com)](mailto:astrohsy@gmail.com)
 [![LeetCode user astrohsy](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcoffee_drinking_hiker&logo=leetcode&logoColor=yellow)](https://leetcode.com/coffee_drinking_hiker/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://astrohsy.notion.site)
 <!--
 **astrohsy/astrohsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
